@@ -3,8 +3,8 @@ import feedparser
 import requests
 import google.generativeai as genai
 from datetime import datetime
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 
 # =========================
 # CONFIG
